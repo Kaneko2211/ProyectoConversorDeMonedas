@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8ebe3c3-c587-495a-bf33-7d901a4aa487" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kevin/modelo/ConsultarMoneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kevin/modelo/Moneda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kevin/modelo/HistorialDeConversor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoConversorDeMoneda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoConversorDeMoneda.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kevin/modelo/Moneda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kevin/modelo/Moneda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kevin/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kevin/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Descargas/gson-2.10.1.jar",
+    "last_opened_file_path": "D:/Mate/AluraJavaBack/ProyectoConversorDeMoneda",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -64,16 +63,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/kevin/principal/Principal.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
